@@ -1,7 +1,8 @@
-### Hi there 👋
+[My Blog](https://github.xin) | [E-Mail](mailto:admin@tcp.so) | [Github](https://github.com/1-bytes)
 
 <!--
-**1-bytes/1-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+from https://github.com/anuraghazra/github-readme-stats
+**Mr-xn/Mr-xn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
