@@ -1,4 +1,10 @@
+
+
+### About me
+---
 [My Blog](https://github.xin) | [E-Mail](mailto:admin@tcp.so) | [Github](https://github.com/1-bytes)
+
+> ***摒弃世俗浮躁，追求技术精湛 :)***
 
 <!--
 from https://github.com/anuraghazra/github-readme-stats
