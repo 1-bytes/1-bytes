@@ -1,7 +1,7 @@
 
 [My Blog](https://github.xin) | [E-Mail](mailto:admin@tcp.so) | [Github](https://github.com/1-bytes)
 
-> ***生如蝼蚁，当有鸿鹄之志***
+> ***生如蝼蚁当立鸿鹄之志，命薄似纸应有不屈之心。***
 
 <!--
 from https://github.com/anuraghazra/github-readme-stats
